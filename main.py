@@ -47,6 +47,7 @@ async def run_memory_chat():
         while True:
             # Get user input
             user_input = input("\nYou: ")
+            logging.info(f"User input: {user_input}")
 
             # Check for exit command
             if user_input.lower() in ["exit", "quit"]:

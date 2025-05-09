@@ -31,3 +31,40 @@
 2025-05-09 23:12:14,647 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
 2025-05-09 23:12:14,648 WARNING Encountered 1 errors during resource cleanup
 2025-05-09 23:12:14,650 WARNING Error closing stdio context: unhandled errors in a TaskGroup (1 sub-exception)
+2025-05-09 23:17:28,317 INFO Script started
+2025-05-09 23:21:54,638 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:21:54,647 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:21:54,647 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:21:54,648 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:21:54,649 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:21:54,651 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:21:54,654 WARNING Error closing stdio context: unhandled errors in a TaskGroup (1 sub-exception)
+2025-05-09 23:26:55,543 INFO Script started
+2025-05-09 23:27:01,705 INFO User input: open google.com
+2025-05-09 23:29:04,840 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:29:04,842 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:29:04,843 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:29:04,844 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:29:04,845 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:29:04,846 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:29:04,848 WARNING Error closing stdio context: unhandled errors in a TaskGroup (1 sub-exception)
+2025-05-09 23:29:11,809 INFO Script started
+2025-05-09 23:29:16,405 INFO User input: clear
+2025-05-09 23:32:42,629 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:32:42,638 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:32:42,639 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:32:42,639 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:32:42,640 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:32:42,642 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:32:42,646 WARNING Error closing stdio context: unhandled errors in a TaskGroup (1 sub-exception)
+2025-05-09 23:32:49,413 INFO Script started
+2025-05-09 23:32:53,547 INFO User input: open google.com
+2025-05-09 23:33:48,954 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:33:48,957 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:33:48,958 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:33:48,959 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:33:48,960 WARNING Error closing client session: Attempted to exit a cancel scope that isn't the current tasks's current cancel scope
+2025-05-09 23:33:48,962 WARNING Encountered 1 errors during resource cleanup
+2025-05-09 23:33:48,964 WARNING Error closing stdio context: unhandled errors in a TaskGroup (1 sub-exception)
+2025-05-09 23:34:03,655 INFO Script started
+2025-05-09 23:34:20,486 INFO User input: open google.com
