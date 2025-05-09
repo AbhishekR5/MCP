@@ -1,0 +1,72 @@
+Initializing chat...
+
+===== Interactive MCP Chat =====
+Type 'exit' or 'quit' to end the conversation
+Type 'clear' to clear conversation history
+=================================
+
+
+You: Traceback (most recent call last):
+  File "C:\Users\abhis\OneDrive\Desktop\mcp\ai-assistant\main.py", line 73, in <module>
+    asyncio.run(run_memory_chat())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\abhis\OneDrive\Desktop\mcp\ai-assistant\main.py", line 41, in run_memory_chat
+    user_input = input("\nYou: ")
+EOFError: EOF when reading a line
+Initializing chat...
+
+===== Interactive MCP Chat =====
+Type 'exit' or 'quit' to end the conversation
+Type 'clear' to clear conversation history
+=================================
+
+
+You: Traceback (most recent call last):
+  File "C:\Users\abhis\OneDrive\Desktop\mcp\ai-assistant\main.py", line 73, in <module>
+    finally:
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\abhis\OneDrive\Desktop\mcp\ai-assistant\main.py", line 41, in run_memory_chat
+    print("Type 'exit' or 'quit' to end the conversation")
+                         ^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+Initializing chat...
+
+===== Interactive MCP Chat =====
+Type 'exit' or 'quit' to end the conversation
+Type 'clear' to clear conversation history
+=================================
+
+
+You: Traceback (most recent call last):
+  File "C:\Users\abhis\OneDrive\Desktop\mcp\ai-assistant\main.py", line 81, in <module>
+    asyncio.run(run_memory_chat())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhis\anaconda3\envs\MCP\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\abhis\OneDrive\Desktop\mcp\ai-assistant\main.py", line 49, in run_memory_chat
+    user_input = input("\nYou: ")
+EOFError: EOF when reading a line

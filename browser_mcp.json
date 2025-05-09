@@ -1,0 +1,38 @@
+{
+    "mcpServers": {
+      "airbnb": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@openbnb/mcp-server-airbnb"
+        ]
+      },
+      "playwright": {
+        "command": "npx",
+        "args": [
+          "@playwright/mcp@latest"
+        ]
+      },
+      "duckduckgo-search": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "duckduckgo-mcp-server"
+        ]
+      },
+      "web-search": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@mcp/web-search"
+        ]
+      },
+      "code-search": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@mcp/code-search"
+        ]
+      }
+    }
+  } 
